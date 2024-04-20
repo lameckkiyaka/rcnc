@@ -20,5 +20,11 @@
     </ul>
   </li>
   <li><h2>Networking</h2></li>
+  <ul>
+    <li><h2>Computer Networks</h2></li>
+    <li><h2>Cabling</h2></li>
+    <li><h2>Wireless Networking</h2></li>
+    <li><h2>Network Programming</h2></li>
+  </ul>
   <li><h2>Communication</h2></li>
 </ul>
