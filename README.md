@@ -4,6 +4,11 @@
     <h2>Computing</h2>
     <ul>
       <li><h2>Operating Systems</h2></li>
+      <ul>
+        <li><h2>Unix</h2></li>
+        <li><h2>Linux</h2></li>
+        <li><h2>Windows</h2></li>
+      </ul>
       <li><h2>Web Development</h2></li>
     </ul>
   </li>
