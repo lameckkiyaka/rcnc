@@ -1,5 +1,5 @@
-/*# rcnc
-Ready for Computing Networking and Communication*/
+/*# rcnc */
+/*Ready for Computing Networking and Communication*/
 <h1>RCNC</h1>
 <h2>Ready for Computing Networking and Communication</h2>
 <ul>
