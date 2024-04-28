@@ -9,7 +9,7 @@
         <li><h2>Linux</h2></li>
         <li><h2>Windows</h2></li>
       </ul>
-      <li><h2>Web Development Languages</h2></li>
+      <li><h2>Programming Languages</h2></li>
       <ul>
         <li><h2>HTML</h2></li>
         <li><h2>CSS</h2></li>
