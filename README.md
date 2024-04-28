@@ -30,10 +30,10 @@
   <li>
     <h2>Communication</h2>
     <ul>
-      <li>Mass Communication</li>
-      <li>Social Media</li>
-      <li>Journalism</li>
-      <li>Entertainment</li>
+      <li><h2>Mass Communication</h2></li>
+      <li><h22>Social Media</h2></li>
+      <li><h2>Journalism</h2></li>
+      <li><h2>Entertainment</h2></li>
     </ul>
   </li>
 </ul>
