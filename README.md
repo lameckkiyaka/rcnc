@@ -25,6 +25,15 @@
     <li><h2>Cabling</h2></li>
     <li><h2>Wireless Networking</h2></li>
     <li><h2>Network Programming</h2></li>
+    <li><h2>Telecommunication</h2></li>
   </ul>
-  <li><h2>Communication</h2></li>
+  <li>
+    <h2>Communication</h2>
+    <ul>
+      <li>Mass Communication</li>
+      <li>Social Media</li>
+      <li>Journalism</li>
+      <li>Entertainment</li>
+    </ul>
+  </li>
 </ul>
